@@ -1,1 +1,1 @@
-# Claude-code-tracker
+# Claude code tracker
